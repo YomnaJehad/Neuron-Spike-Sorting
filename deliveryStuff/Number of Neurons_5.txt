@@ -1,0 +1,2 @@
+For electrode 1: number of clusters: 2 (Could also be 3)
+For electrode 1: number of clusters: 2
